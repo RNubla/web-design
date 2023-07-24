@@ -3,3 +3,4 @@
 <a href="/libson-chair">Libson Chair Demo</a>
 <a href="/cleaning-service">Cleaning Service</a>
 <a href="/hero-demo">Hero Demo</a>
+<a href="/layout-demo">Layout Demo</a>
