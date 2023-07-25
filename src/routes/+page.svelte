@@ -4,3 +4,4 @@
 <a href="/cleaning-service">Cleaning Service</a>
 <a href="/hero-demo">Hero Demo</a>
 <a href="/layout-demo">Layout Demo</a>
+<a href="/omni-food">Omni Food</a>
