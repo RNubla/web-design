@@ -26,7 +26,15 @@
 
 <header class="header">
 	<img class="logo" src="src/lib/assets/omni-food-assets/omnifood-logo.png" alt="Omnifood logo" />
-	<nav class="main-nav">Navigation</nav>
+	<nav class="main-nav">
+		<ul class="main-nav-list">
+			<li><a class="main-nav-link" href="#">Section 1</a></li>
+			<li><a class="main-nav-link" href="#">Section 2</a></li>
+			<li><a class="main-nav-link" href="#">Section 3</a></li>
+			<li><a class="main-nav-link" href="#">Section 4</a></li>
+			<li><a class="main-nav-link nav-cta" href="#">Section 5</a></li>
+		</ul>
+	</nav>
 </header>
 
 <main>
@@ -64,4 +72,12 @@
 			</div>
 		</div>
 	</section>
+	<div class="section-how">
+		<div class="container grid grid-2-cols">
+			<div>Test 1</div>
+			<div>Test 2</div>
+			<div>Test 3</div>
+			<div>Test 4</div>
+		</div>
+	</div>
 </main>
